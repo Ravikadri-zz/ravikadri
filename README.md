@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on SPFX and Azure Development
+- 🌱 I’m currently learning typescript
+- 👯 I’m looking to collaborate on Github projects
+
 <!--
 **Ravikadri/ravikadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
